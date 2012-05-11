@@ -1,0 +1,15 @@
+body { margin: 0; }
+#canvasContainer { position: relative; }
+#joypad {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 145px;
+}
+#joypad .top {
+  text-align: center;
+  width: inherit;
+}
+#joypad .bottom {
+  width: inherit;
+}

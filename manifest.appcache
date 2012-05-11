@@ -1,0 +1,40 @@
+CACHE MANIFEST
+# /qmhE3RHRRIp/qYnrss6Ce86Z5c=
+
+CACHE:
+assets/images/html5-logo.png
+assets/images/pad/kbdown.png
+assets/images/pad/kbempty.png
+assets/images/pad/kbleft.png
+assets/images/pad/kbright.png
+assets/images/pad/kbup.png
+assets/images/pad/Thumbs.db
+assets/images/preview-laby.png
+assets/images/textures/aztec01.jpg
+assets/images/textures/grate02.jpg
+assets/images/textures/house05.jpg
+assets/images/textures/slab03.jpg
+assets/images/textures/tarmac02.jpg
+assets/images/textures/Thumbs.db
+assets/images/Thumbs.db
+assets/images/webgl-logo.png
+assets/maps/maze3d-1-mobile.json
+assets/maps/maze3d-1.json
+assets/maps/maze3d-2.json
+assets/maps/maze3d-3.json
+assets/maps/maze3d-4.json
+assets/maps/maze3d-5.json
+assets/sound/bat.mp3
+assets/sound/bat.ogg
+assets/sound/bat.wav
+css/app.css
+index.html
+index.html~
+js/app.js
+manifest.webapp
+
+# catch-all for anything else
+NETWORK:
+*
+http://*
+https://*
